@@ -1,0 +1,23 @@
+# Files
+
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Intellij
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
